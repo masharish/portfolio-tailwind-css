@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="535px" height="600px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 535000 600239"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#25185A}
+    .fil1 {fill:#FAD605}
+   ]]>
+  </style>
+ </defs>
+ <g id="PU">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Ostiamare">
+   <polygon class="fil0" points="273,244 534727,244 534727,599995 273,599995 "/>
+   <polygon class="fil1" points="16507,18462 518493,18462 518493,581777 16507,581777 "/>
+   <path class="fil0" d="M33508 563850l24656 0 0 -11335c0,-64729 51286,-117890 114550,-117890 63264,0 114550,53161 114550,117890 0,3824 -183,7605 -533,11335l214067 0 0 -175006 -26799 0 0 2838c355,3336 543,6724 543,10157 0,51208 -40573,92720 -90621,92720 -50049,0 -90621,-41512 -90621,-92720l0 -367097 -189050 0 0 35632c82344,0 149096,68298 149096,152549 0,84251 -66753,152549 -149096,152549l-70741 0 0 188379z"/>
+  </g>
+ </g>
+</svg>
